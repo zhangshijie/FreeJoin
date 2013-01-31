@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/freejoin/!svn/ver/138/1/FreeJoin/templates/FreeJoinapp
+END
+mainview.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/freejoin/!svn/ver/134/1/FreeJoin/templates/FreeJoinapp/mainview.html
+END
+createActivity.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/freejoin/!svn/ver/138/1/FreeJoin/templates/FreeJoinapp/createActivity.html
+END
+messagelist.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/freejoin/!svn/ver/2/1/FreeJoin/templates/FreeJoinapp/messagelist.html
+END
+loginsuccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/freejoin/!svn/ver/37/1/FreeJoin/templates/FreeJoinapp/loginsuccess.html
+END
+loginfail.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/freejoin/!svn/ver/29/1/FreeJoin/templates/FreeJoinapp/loginfail.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/freejoin/!svn/ver/2/1/FreeJoin/templates/FreeJoinapp/index.html
+END

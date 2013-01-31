@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}最新消息 {% endblock %}
+
+{% block content %} 
+
+<div class="dropdown">
+  <a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="/page.html">
+    地点
+    <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+    ...
+  </ul>
+</div>
+
+
+
+{% endblock %}

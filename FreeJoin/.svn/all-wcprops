@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/freejoin/!svn/ver/138/1/FreeJoin
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/freejoin/!svn/ver/2/1/FreeJoin/manage.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/freejoin/!svn/ver/2/1/FreeJoin/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/freejoin/!svn/ver/2/1/FreeJoin/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/freejoin/!svn/ver/21/1/FreeJoin/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/freejoin/!svn/ver/126/1/FreeJoin/urls.py
+END
+weibo.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/freejoin/!svn/ver/2/1/FreeJoin/weibo.py
+END
